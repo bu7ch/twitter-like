@@ -1,0 +1,5 @@
+Twitter Projet :
+     Definir une architecture de base :
+      ✔ creer un fichier config.php 
+      ☐ creer un fichier autoload.php
+      ✔ creer un fichier database.fn.php 
