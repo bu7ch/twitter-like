@@ -3,3 +3,7 @@ Twitter Projet :
       ✔ creer un fichier config.php 
       ☐ creer un fichier autoload.php
       ✔ creer un fichier database.fn.php 
+     Base de donnée:
+      ✔ création de la base de donnée 
+      ✔ creation de la table `users` 
+    ✔ function d'inscription 
